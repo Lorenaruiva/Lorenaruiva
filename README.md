@@ -1,4 +1,4 @@
-## Olá! Eu sou a Lorena
+## Hi! I am Lorena Rocha👩‍🦰
 
 
 - 🌱 Estudando HTML, CSS, JS
