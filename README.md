@@ -14,6 +14,7 @@
  
   <img align="center" alt="Loh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Loh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"alt="Loh-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg">
     <p align="right">
     <img windth="470" src="https://cdn.discordapp.com/attachments/813373618951421952/926301956832632882/GIFPAL-20211230233246.gift_hub.gif")
   </div>
